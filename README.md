@@ -1,4 +1,5 @@
-# Small-n-6-4-_3-codes-in-l_1-metric
+# Ternary CWCs with weight four and distance six of short length in l1-metric
+
 This code branch is the ....
 Your can download the zip file or goto the specific branches.
 
