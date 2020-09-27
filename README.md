@@ -1,1 +1,0 @@
-# Small-n-6-4-_3-codes-in-l_1-metric
